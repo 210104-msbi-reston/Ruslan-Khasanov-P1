@@ -20,6 +20,17 @@ A database for Apple.Inc company to keep track of inventory and products sold.
 * In the command prompt type: "git clone https://github.com/210104-msbi-reston/Ruslan-Khasanov-P1.git"
 * Open your SQL Server Management Studio. Right click on the database folder. From Drop down menu select Restore Database.
 
+## Usage
+Stored Procedures
+* Produce
+* transferProduct
+* SellProduct
+* returnItem
+Functions
+* ufnAdd8percent
+* ufnCalculateProductionCost
+* ufnGenerateSerialNumber
+
 ## License
 
 * SQL Server Management Studio
