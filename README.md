@@ -1,34 +1,24 @@
-PROJECT NAME
+Project 1 - Apple, Inc.
 Project Description
-Here goes your awesome project description!
+A database for Apple.Inc company to keep track of inventory and products sold.
 
 Technologies Used
-Tech 1 - version 1.0
-Tech 2 - version 2.0
-Tech 3 - version 3.0
+SQL Server Management Server
+
 Features
-List of features ready and TODOs for future development
-
-Awesome feature 1
-Awesome feature 2
-Awesome feature 3
+Includes useful views and functions set up to store, add, and remove data as needed.
+Populated tables in database with products.
+Full data for each product including returns, current location, and dates of movements between supply chain nodes.
 To-do list:
-
-Wow improvement to be done 1
-Wow improvement to be done 2
+Consolidation of stored procedures into a single procedure for performance improvement.
 Getting Started
-(include git clone command) (include all environment setup steps)
+Required Software: Microsoft SQL Server Management Studio
 
-Be sure to include BOTH Windows and Unix command
-Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-All the code required to get started
-Images of what it should look like
-Usage
-Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
-Contributors
-Here list the people who have contributed to this project. (ignore this section, if its a solo project)
-
-License
-This project uses the following license: <license_name>.
+Steps to pulling repo to a directory
+Create a directory that will store the project data
+Locate the directory in Git Bash
+Type git init and press Enter
+Type git pull https://github.com/210104-msbi-reston/Ruslan-Khasanov-P1.git
+Open Microsoft SQL Server Management Studio
+Go to File > Open
+Use AppleInc.bak file to restore the database and all the features of it.
