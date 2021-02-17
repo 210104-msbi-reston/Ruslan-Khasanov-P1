@@ -18,7 +18,7 @@ A database for Apple.Inc company to keep track of inventory and products sold.
 ## Getting Started
 * Type cmd in the search bar of your windows machine, for linux users please open terminal.
 * In the command prompt type: "git clone https://github.com/210104-msbi-reston/Ruslan-Khasanov-P1.git"
-* Open your SQL Server Management Studio. Right click on the database folder. From Drop down menu select Restore Database.
+* Open your SQL Server Management Studio. Right click on the database folder. From Drop down menu select Restore Database. Browse the location of AppleInc.bak.Click ok.
 
 ## Usage
 Stored Procedures
